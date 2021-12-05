@@ -1,0 +1,4 @@
+export ECOBEE_API_KEY=""
+export ECOBEE_REFRESH_TOKEN=""
+export ECOBEE_SENSOR_ID="rs:100"
+export RECEIVER_HOST=""
